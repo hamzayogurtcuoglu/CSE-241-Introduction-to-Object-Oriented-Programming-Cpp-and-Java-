@@ -1,0 +1,7 @@
+copy directory0/directory1/directory2/file1 /directory0/directory1
+cd directory0/directory1
+move directory1/directory2/BenimDosyam /directory1
+cd directory0/directory1/directory2
+cd ..
+cd /
+delete directory0/directory1

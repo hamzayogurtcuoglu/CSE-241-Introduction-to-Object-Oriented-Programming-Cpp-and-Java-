@@ -1,0 +1,4 @@
+search "Monkeys" in "title"
+search "Spice" in "genre"
+sort "year"
+search "2007" in "year"
